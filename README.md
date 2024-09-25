@@ -20,6 +20,7 @@ This Python-based application leverages advanced computer vision libraries to en
 6) Tkinter: Optional GUI interface for users to control meme collections, set preferences, etc.
 
 **How It Works**
+
 A. Camera Activation: The system activates the camera and starts analyzing the user’s facial expressions in real-time.
 
 B. Drowsiness Detection: Using OpenCV and facial landmark detection, the system tracks signs like yawning or closed eyes, which indicate drowsiness.
