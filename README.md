@@ -1,4 +1,5 @@
 **Project Description**
+
 **Wake Me Up with Memes** is an innovative and fun project designed to wake users up with laughter! The project utilizes a camera interface to detect facial expressions such as yawning, drowsiness, and alertness. Once the system detects a state of drowsiness or sleep, it automatically plays random video memes to wake the user up in a lighthearted and engaging manner.
 
 This Python-based application leverages advanced computer vision libraries to ensure accurate, lag-free performance in real-time. It's perfect for anyone who needs a little extra motivation to stay awake or for those who love starting their day with a smile.
