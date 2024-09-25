@@ -21,6 +21,9 @@ This Python-based application leverages advanced computer vision libraries to en
 
 **How It Works**
 A. Camera Activation: The system activates the camera and starts analyzing the user’s facial expressions in real-time.
+
 B. Drowsiness Detection: Using OpenCV and facial landmark detection, the system tracks signs like yawning or closed eyes, which indicate drowsiness.
+
 C. Trigger Meme Playback: Once drowsiness is detected, the system instantly plays a random meme from the stored video collection.
+
 D. Stay Alert: The system repeats this cycle until the user shows signs of being fully awake (alert expressions).
